@@ -1,6 +1,7 @@
 # Auto-Commit-Script
 
 ![Language](https://img.shields.io/badge/Language-Bash-lightgrey)
+![Type](https://img.shields.io/badge/Type-Script-blue)
 ![Version](https://img.shields.io/badge/version-Beta-orange)
 
 ```
