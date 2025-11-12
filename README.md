@@ -24,3 +24,7 @@ chmod +x auto_commit.sh # to make executable
 
 #Or add the script to PATH to run without specifying the path
 ```
+
+```
+New script to find all git repos is in development
+```
